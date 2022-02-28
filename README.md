@@ -4,8 +4,8 @@
 - :mortar_board: Currently in final year of my degree
 - :nerd_face: Studying Computer Science from Comsats University Islamabad
 - :sunglasses: FreeLancer
-- :computer: MERN Developer
-- 👨‍💻 Backend developer
+- :computer: MERN and MEAN Developer
+- 👨‍💻 Backend developer(Node,Express,Django Rest,GO)
 - ☁️ Devops and cloud developer  
 - :iphone: Mobile Developer React Native Expert
 - :floppy_disk: Data Science intermediate
