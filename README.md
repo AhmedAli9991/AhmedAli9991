@@ -5,7 +5,7 @@
 - :nerd_face: Studying Computer Science from Comsats University Islamabad
 - :sunglasses: FreeLancer
 - :computer: MERN and MEAN Developer
-- 👨‍💻 Backend Developer 
+- 👨‍💻 Backend API Developer 
 - :iphone: Mobile Developer React Native Expert
 - :floppy_disk: Data Science intermediate
 - 📈 I’m looking to earn as well as learn from people of my field
