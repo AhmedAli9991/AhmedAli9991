@@ -4,11 +4,9 @@
 - :mortar_board: Currently in final year of my degree
 - :nerd_face: Studying Computer Science from Comsats University Islamabad
 - :sunglasses: FreeLancer
-- :computer: MERN and MEAN Developer
-- 👨‍💻 Backend API Developer 
+- 👨‍💻 FullStack Developer and 
+- Prolem Solver 
 - :iphone: Mobile Developer React Native Expert
-- :floppy_disk: Data Science intermediate
-- 📈 I’m looking to earn as well as learn from people of my field
 - 📫 How to reach me [Link to linkedin](https://www.linkedin.com/in/ahmed-ali-a8b415215/)
 
 
