@@ -3,10 +3,10 @@
 </div>
 
 # Hi, I’m @AhmedAli9991
-<div id="header" align="center">
-  <img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC.gif" width="100"/>
-</div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 - 👋 my name is Ahmed Ali
 - 👀 I’m interested in Web development and DataScience
