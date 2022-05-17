@@ -5,7 +5,7 @@
 # Hi, I’m @AhmedAli9991
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="800" height="400"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800" height="400"/>
 </div>
 
 - 👋 my name is Ahmed Ali
