@@ -16,7 +16,7 @@
   "languages": ["Python", "Javascript", "Typescript", "Java", "c++"],
   "frameworks/libraries": {
     "backend": ["FastApi", "Express", "Node", "Flask"],
-    "frontend": ["React.js", "Angular","Boostrap", "Material UI", "Chakra UI",],
+    "frontend": ["React.js", "Angular","Boostrap", "Material UI", "Chakra UI"],
     "others": ["HTML5", "CSS3"]
     },
   "database": ["PostgreSQL", "MongoDB", "MySQL"],
