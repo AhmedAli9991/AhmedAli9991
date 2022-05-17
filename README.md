@@ -21,7 +21,7 @@
     "frontend": ["React.js", "Angular","Boostrap", "Material UI", "Chakra UI",],
     "others": ["HTML5", "CSS3"]
     },
-  "database": ["PostgreSQL", MongoDB, "MySQL"],
+  "database": ["PostgreSQL", "MongoDB", "MySQL"],
   "misc": ["Git", "Redis"],
   "tools": ["Visual Studio Code", "Pycharm", "Eclipse"]
 }
