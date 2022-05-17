@@ -17,6 +17,7 @@
   "frameworks/libraries": {
     "backend": ["FastApi", "Express", "Node", "Flask"],
     "frontend": ["React.js", "Angular","Boostrap", "Material UI", "Chakra UI"],
+    "Mobile": ["React Native"],
     "others": ["HTML5", "CSS3"]
     },
   "database": ["PostgreSQL", "MongoDB", "MySQL"],
