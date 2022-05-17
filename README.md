@@ -4,7 +4,7 @@
 - :mortar_board: Currently in final year of my degree
 - :nerd_face: Studying Computer Science from Comsats University Islamabad
 - :sunglasses: FreeLancer
-- 👨‍💻 FullStack Developer and 
+- 👨‍💻 FullStack Developer
 - 🤔 Prolem Solver 
 - :iphone: Mobile Developer React Native Expert
 - 📫 How to reach me [Link to linkedin](https://www.linkedin.com/in/ahmed-ali-a8b415215/)
