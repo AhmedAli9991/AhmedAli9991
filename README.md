@@ -5,7 +5,7 @@
 - :nerd_face: Studying Computer Science from Comsats University Islamabad
 - :sunglasses: FreeLancer
 - 👨‍💻 FullStack Developer and 
-- Prolem Solver 
+- 🤔 Prolem Solver 
 - :iphone: Mobile Developer React Native Expert
 - 📫 How to reach me [Link to linkedin](https://www.linkedin.com/in/ahmed-ali-a8b415215/)
 
