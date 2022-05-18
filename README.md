@@ -2,17 +2,14 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50"/>
-</div>
 
 # Hi, I’m @AhmedAli9991
 
 <div align="center">
-  <img src="https://giphy.com/gifs/ciscoengemojis-security-26n7b7PjSOZJwVCmY" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
 </div>
 
-<br/><br/>
+<br/>
 
 - 👋 my name is Ahmed Ali
 - 👀 I’m interested in Web development and DataScience
