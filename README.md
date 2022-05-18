@@ -8,7 +8,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800" height="400"/>
 </div>
+
 <br/><br/>
+
 - 👋 my name is Ahmed Ali
 - 👀 I’m interested in Web development and DataScience
 - :mortar_board: Currently in final year of my degree
