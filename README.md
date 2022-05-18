@@ -41,7 +41,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAli9991&theme=vision-friendly-dark&hide=blade)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedAli9991&show_icons=true&layout=compact&theme=vision-friendly-dark)
 
-
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AhmedAli9991&theme=darkhub)
 
 <!---
 AhmedAli9991/AhmedAli9991 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
