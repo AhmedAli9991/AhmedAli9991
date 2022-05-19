@@ -4,8 +4,8 @@
 
 
 <a href="https://stackoverflow.com/users/18118585/ahmed-ali" target="_blank"><img src="https://img.shields.io/badge/-Stack overflow-D14836?style=flat-square&logo=Stackoverflow&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/indiedanish/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ahmedalibalti2000@gmail.com@" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ahmed-ali-a8b415215/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:ahmedalibalti2000@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </div>
 
