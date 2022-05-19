@@ -44,7 +44,7 @@
   "tools": ["Visual Studio Code", "Pycharm", "Eclipse"]
 }
 ```
-## Langusges 
+## Languages 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="Javascript" width="40" height="40"/>&nbsp;
