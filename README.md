@@ -1,5 +1,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+
+
+
+<a href="https://stackoverflow.com/users/17114242/danish" target="_blank"><img src="https://img.shields.io/badge/-Stack overflow-D14836?style=flat-square&logo=Stackoverflow&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/indiedanish/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:ahmedalibalti2000@gmail.com@" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
 </div>
 
 
@@ -37,7 +44,7 @@
   "tools": ["Visual Studio Code", "Pycharm", "Eclipse"]
 }
 ```
-## Langusges
+## Langusges 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="Javascript" width="40" height="40"/>&nbsp;
@@ -56,7 +63,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask " width="40" height="40"/>&nbsp;
  </div>
 
-## FrontEnd Technologies
+## Frontend Technologies
 
  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -65,7 +72,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   </div>
 
-## DataBases
+## Databases
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
