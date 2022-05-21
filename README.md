@@ -18,6 +18,8 @@
 
 <br/>
 
+## Little about me
+
 - 👋 my name is Ahmed Ali
 - 👀 I’m interested in Web development and DataScience
 - :mortar_board: Currently in final year of my degree
