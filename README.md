@@ -34,9 +34,9 @@
 ## My Stacks
 ```json
 {
-  "languages": ["Python", "Javascript", "Typescript", "Java", "c++"],
+  "languages": ["Python", "Javascript", "Go", "Typescript", "Java", "c++"],
   "frameworks/libraries": {
-    "backend": ["FastApi", "Express", "Node", "Flask"],
+    "backend": ["FastApi", "Gorilla/Mux", "Express", "Node", "Flask"],
     "frontend": ["React.js", "Angular","Boostrap", "Material UI", "Chakra UI"],
     "Mobile": ["React Native"],
     "others": ["HTML5", "CSS3"]
