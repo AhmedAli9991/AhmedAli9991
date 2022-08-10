@@ -42,7 +42,7 @@
     "others": ["HTML5", "CSS3"]
     },
   "database": ["PostgreSQL", "MongoDB", "MySQL"],
-  "misc": ["Git", Docker, Linux, AWS, "Redis"],
+  "misc": ["Git", "Docker", "Linux", "AWS", "Redis"],
   "tools": ["Visual Studio Code", "Pycharm", "Eclipse"]
 }
 ```
