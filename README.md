@@ -30,11 +30,17 @@
 ## 👨‍💻 About Me
 
 - 👋 My name is **Ahmed Ali**
-- 👀 I’m interested in **Web Development** and **Data Science**
-- 🎓 Final year Computer Science student at **Comsats University Islamabad**
-- 👨‍💻 Full Stack Developer | 🤝 Freelancer
-- 🤔 Problem Solver | 📱 React Native Mobile Developer
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ahmed-ali-a8b415215/)
+- 👀 Currently working at **Red Buffer** as a **Software Engineer**
+- 🏢 Have worked with **Fortune 500 companies** like **NCR** and leading telecom giants such as **JAZZ** and **Telenor**
+- 👨‍💻 3+ years of professional experience in full-stack development  
+- 🎓 Computer Science graduate from **Comsats University Islamabad**
+- ✨ Open Source Contributor
+- 💻 Write clean, maintainable, and scalable code
+- 🚀 Deploy and manage production-ready applications
+- ✅ Set up **CI/CD pipelines** and **automated testing workflows**
+- 🧪 Skilled in implementing **automation testing** for quality assurance
+- 🤔 Strong analytical and problem-solving skills
+- 📫 Connet with me on [LinkedIn](https://www.linkedin.com/in/ahmed-ali-a8b415215/)
 
 ---
 
@@ -44,13 +50,14 @@
 {
   "languages": ["Python", "JavaScript", "Go", "TypeScript", "Java", "C++"],
   "frameworks": {
-    "backend": ["FastAPI", "Gorilla/Mux", "Express", "Node", "Flask"],
+    "backend": ["FastAPI", "Gorilla/Mux", "Express", "Node", "Nest", "Flask"],
     "frontend": ["React.js", "Angular", "Bootstrap", "Material UI", "Chakra UI"],
     "mobile": ["React Native"]
   },
-  "database": ["PostgreSQL", "MongoDB", "MySQL"],
-  "misc": ["Git", "Docker", "Linux", "AWS", "Redis"],
-  "tools": ["VS Code", "PyCharm", "Eclipse"]
+  "devops": ["Github Actions"]
+  "database": ["PostgreSQL", "MongoDB", "MySQL","Redis"],
+  "misc": ["Git", "Docker", "Linux", "AWS", "GCP"],
+  "tools": ["VS Code", "Cursor","PyCharm", "Eclipse"]
 }
 ```
 
@@ -69,17 +76,16 @@
 <div> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="Nets" alt="Nest" width="40" height="40"/>&nbsp; 
 </div>
 
 ## Frontend Technologies
 
 <div> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next" alt="Next" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp; 
 </div>
 
 ## Databases
@@ -99,8 +105,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="60" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="googlecloud" alt="googlecloud" width="60" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp; 
 </div>
 
