@@ -32,7 +32,7 @@
 - 👋 My name is **Ahmed Ali**
 - 👀 Currently working at **Red Buffer** as a **Software Engineer**
 - 🏢 Have worked with **Fortune 500 companies** like **NCR** and leading telecom giants such as **JAZZ** and **Telenor**
-- 👨‍💻 3+ years of professional experience in full-stack development  
+- 👨‍💻 4+ years of professional experience  
 - 🎓 Computer Science graduate from **Comsats University Islamabad**
 - ✨ Open Source Contributor
 - 💻 Write clean, maintainable, and scalable code
